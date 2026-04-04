@@ -1,0 +1,138 @@
+Finance Dashboard UI
+
+Objective
+
+To evaluate your understanding of frontend development by building a clean and interactive finance dashboard interface.
+
+This assignment focuses on how you design user interfaces, structure components, and handle data on the frontend. It is not expected to be production ready or backend dependent.
+
+Key Instructions
+
+You do not have to follow a strict structure. Design the layout and components in a way that feels intuitive to you.
+
+Keep things simple and clear. The goal is to see how you think and build, not how complex you can make it.
+
+Creativity is welcomed. Small thoughtful touches in design and interaction will be appreciated.
+
+Flexibility
+
+You are free to:
+
+Use any frontend framework such as React, Vue,Next js plain JavaScript
+
+Use any styling method such as Tailwind CSS
+
+Work with static or mock data
+
+Structure the project in your own way
+
+Scenario
+
+Imagine you are building a simple dashboard for users to track and understand their financial activity.
+
+The interface should allow users to:
+
+View overall financial summary
+
+Explore transactions
+
+Understand basic spending patterns
+
+Core Requirements
+
+Dashboard Overview
+Create a main dashboard that includes:
+
+Summary cards such as Total Balance, Income, and Expenses
+
+At least one time based visualization (e.g., balance trend)
+
+At least one categorical visualization (e.g., spending breakdown)
+
+Transactions Section
+Display a list of transactions with details like:
+
+Date
+
+Amount
+
+Category
+
+Type such as income or expense
+
+Include basic features such as:
+
+Simple filtering
+
+Sorting or search
+
+Basic Role Based UI
+You do not need to implement full RBAC or backend logic. Just simulate roles on the frontend and change UI behavior accordingly.
+
+For example:
+
+Viewer can only see data
+
+Admin can add or edit transactions
+
+You can switch roles using a dropdown or toggle for demonstration.
+
+Insights Section
+Show a few simple insights such as:
+
+Highest spending category
+
+Monthly comparison
+
+Any useful observation from the data
+
+State Management
+Handle application state properly such as:
+
+Transactions data
+
+Filters
+
+Selected role
+
+You may use any approach like Context, Redux, Zustand or even simple state if well managed.
+
+UI and UX Expectations
+Clean and readable design
+
+Works properly on different screen sizes
+
+Handles empty or no data cases gracefully
+
+Optional Enhancements
+
+These are not required but can strengthen your submission:
+
+Dark mode
+
+Data persistence (local storage)
+
+Mock API integration
+
+Animations or transitions
+
+Export functionality (CSV/JSON)
+
+Advanced filtering or grouping
+
+Apr 3, 02:21 PM
+
+Welcome to Emergent—your launchpad for ambitious apps.
+
+This is solid ground for building something users actually rely on. A finance dashboard isn't just an interview project—it's the foundation for real financial literacy tools, personal wealth management, or even the core of a SaaS product. On Emergent, you'll turn this into a production-ready application that scales from prototype to real users.
+
+I'll set up your core structure now and we'll iterate from there. Let's build.
+
+
+I'll help you build a Finance Dashboard UI. Let me gather some preferences first to create the best solution for you.
+
+Agent asked a question
+Answered
+Up
+Apr 3, 02:22 PM
+
